@@ -1,4 +1,4 @@
-first 2 to is upload from json
+first 2 todo list is upload from json 
 [todo.json](https://github.com/user-attachments/files/19337903/todo.json)# to_do
 
 ![image](https://github.com/user-attachments/assets/f58e7e22-0b48-4739-9b9c-07162ce5fa2d)
